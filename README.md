@@ -91,3 +91,7 @@ flowchart TB
     style subGraph1 stroke:#000000,fill:none
     style subGraph2 stroke:#000000,fill:none
 ```
+### Sample Output
+<img width="888" alt="Screenshot 2024-04-09 at 16 36 43" src="https://github.com/user-attachments/assets/897544ff-b800-4922-b548-e1f719597052">
+<br><br>
+<img width="310" alt="Screenshot 2024-04-09 at 16 34 18" src="https://github.com/user-attachments/assets/4d2457d6-8595-425e-9df5-3c769162f28e">
